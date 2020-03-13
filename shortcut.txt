@@ -1,0 +1,19 @@
+[코드]
+    -   Ctrl + P        //인자값 즉시 보기
+    -   Ctrl + Shift + i        //코드 구현부 즉시 보기
+    -   (코드 구현부 즉시 보기) + Ctrl + Enter       //코드 구현부 새창
+    -   Shift + F6      //Refactoring(rename)
+    -   Alt + Insert        //코드 생성
+    -   Ctrl + +/-      //코드 접었다 펴기
+    -   Ctrl + Alt + O      //import 정리
+    -   Ctrl + Alt + i      //줄 단위 코드 정렬
+    -   Ctrl + Shift + B        //선언부로 가기
+[편집기]
+    -   Alt + 좌우 이동키        //편집기 이동
+    -   Ctrl + F4       //현재 편집기 닫기
+
+[네비게이터]
+    -   Alt + Insert        //파일 추가
+    -   Alt + Home      //네비게이터 바로 이동
+    -   Shift + F6      //파일 이름 바꾸기
+    -   Alt + F12       //터미널
