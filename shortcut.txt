@@ -8,17 +8,16 @@
     -   Ctrl + Alt + O      //import 정리
     -   Ctrl + Alt + i      //줄 단위 코드 정렬
     -   Ctrl + Shift + B        //선언부로 가기
-    -   F4      //show source
+    -   F4        //show source
 
 [편집기]
     -   Alt + 좌우 이동키        //편집기 이동
     -   Ctrl + F4       //현재 편집기 닫기
 
 [네비게이터]
-    -   Alt + 1     //sidebar show/hide
+    -   Alt + 1         //sidebar show/hide
     -   Alt + Insert        //파일 추가
     -   Alt + Home      //네비게이터 바로 이동
     -   Shift + F6      //파일 이름 바꾸기
     -   Alt + F12       //터미널
-    -   Alt + Shift + \     //Details in Tree View
     -   Ctrl + Shift + F12      //hide all window without editor
